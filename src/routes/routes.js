@@ -6,4 +6,5 @@ router.get("/Players", JuegoController.getPlayer);
 router.get("/Aspectos", JuegoController.getPlayer);
 router.get("/Preguntas", JuegoController.getPlayer);
 router.get("/Asignaciones", JuegoController.getPlayer);
+
 export default router;
